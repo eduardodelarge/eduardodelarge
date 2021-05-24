@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eduardodelarge
 - 👀 I’m interested in languages like Python, JavaScript and C.
 - 🌱 I’m currently learning software engineering @42SP
-- 💞️ I’m looking to collaborate on any project that will help to learn software engineering
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project that will help me to learn about software engineering in general.
 
 <!---
 eduardodelarge/eduardodelarge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
