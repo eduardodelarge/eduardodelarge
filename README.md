@@ -1,3 +1,4 @@
+![Sem tkítulo](https://user-images.githubusercontent.com/78316076/119575047-c8fc9680-bd8c-11eb-80a3-07cee64d32f5.png)
 - 👋 Hi, I’m @eduardodelarge
 - 👀 I’m interested in languages like Python, JavaScript and C.
 - 🌱 I’m currently learning software engineering @42SP
