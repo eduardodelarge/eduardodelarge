@@ -11,4 +11,5 @@
 eduardodelarge/eduardodelarge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/genial_flare"><img src="https://api.daily.dev/devcards/4bd89d4ef06e40e4b96fcedc986ffb04.png?r=251" width="400" alt="Eduardo Sousa's Dev Card"/></a>
+<a href="https://app.daily.dev/genial_flare"><img align="right" width="256" src="https://api.daily.dev/devcards/4bd89d4ef06e40e4b96fcedc986ffb04.png?r=251" 
+                                                   alt="Eduardo Sousa's Dev Card"/></a>
